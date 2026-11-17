@@ -8,6 +8,7 @@ readme = "README.md"
 keywords = ["dns", "network", "diagnostics", "cli", "architecture"]
 categories = ["command-line-utilities", "network-programming"]
 repository = "https://github.com/Ghost-3/dns-tester"
+homepage = "https://gist.github.com/Ghost-3/04b7e726be2a7f1795a7f5495bca4f1f"
 
 [dependencies]
 hickory-proto = "0.26.3"
