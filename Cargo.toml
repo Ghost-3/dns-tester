@@ -1,0 +1,13 @@
+[package]
+name = "dns-tester"
+version = "0.1.0"
+edition = "2024"
+description = "Diagnostic DNS Tester (reference implementation of the Isolating Fractal Architecture)"
+license = "MIT"
+readme = "README.md"
+keywords = ["dns", "network", "diagnostics", "cli", "architecture"]
+categories = ["command-line-utilities", "network-programming"]
+repository = "https://github.com/Ghost-3/dns-tester"
+
+[dependencies]
+hickory-proto = "0.26.3"
